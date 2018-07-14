@@ -33,6 +33,8 @@
 * [N-Queens II](https://github.com/jiangxq18/leetcode/blob/master/Java/n-queens-ii.java)
 * [Permutations](https://github.com/jiangxq18/leetcode/blob/master/Java/permutations.java)
 * [Permutations II](https://github.com/jiangxq18/leetcode/blob/master/Java/permutations-ii.java)
+* [Subsets](https://github.com/jiangxq18/leetcode/blob/master/Java/subsets.java)
+* [Subsets II](https://github.com/jiangxq18/leetcode/blob/master/Java/subsets-ii.java)
 * [Triangle](https://github.com/jiangxq18/leetcode/blob/master/Java/triangle.java)
 * [Maximum Subarray](https://github.com/jiangxq18/leetcode/blob/master/Java/maximum-subarray.java)
 
