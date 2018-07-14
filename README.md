@@ -35,6 +35,8 @@
 * [Permutations II](https://github.com/jiangxq18/leetcode/blob/master/Java/permutations-ii.java)
 * [Subsets](https://github.com/jiangxq18/leetcode/blob/master/Java/subsets.java)
 * [Subsets II](https://github.com/jiangxq18/leetcode/blob/master/Java/subsets-ii.java)
+* [Combination Sum](https://github.com/jiangxq18/leetcode/blob/master/Java/combination-sum.java)
+* [Combination Sum II](https://github.com/jiangxq18/leetcode/blob/master/Java/cobination-sum-ii.java)
 * [Combinations](https://github.com/jiangxq18/leetcode/blob/master/Java/combinations.java)
 * [Triangle](https://github.com/jiangxq18/leetcode/blob/master/Java/triangle.java)
 * [Maximum Subarray](https://github.com/jiangxq18/leetcode/blob/master/Java/maximum-subarray.java)
