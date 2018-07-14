@@ -38,3 +38,4 @@
 
 ### System Design
 * [Merge Intervals](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-intervals.java)
+* [Insert Interval](https://github.com/jiangxq18/leetcode/blob/master/Java/insert-interval.java)
