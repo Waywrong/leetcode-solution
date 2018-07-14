@@ -2,20 +2,19 @@
 
 // Time O(2^N), Space O(N)
 class Solution {
-    private List<List<Integer>> ans = new ArrayList<List<Integer>>();
-    private List<Integer> subset = new ArrayList<Integer>();
-    
     public List<List<Integer>> subsets(int[] nums) {
-        dfs(nums, 0);
-        return this.ans;
+        List<List<Integer>> ans = new ArrayList<List<Integer>>();
+        List<Integer> subset = new ArrayList<Integer>();
+        dfs(nums, 0, subset, ans);
+        return ans;
     }
     
-    private void dfs(int[] nums, int start) {
-        this.ans.add(this.subset);
+    private void dfs(int[] nums, int start, List<Integer> subset, List<List<Integer>> ans) {
+        ans.add(new ArrayList(subset));
         for (int i=start; i<nums.length; i++) {
-            this.subset.add(nums[i]);
-            dfs(nums, i+1);
-            this.subset.remove(this.subset.size()-1);
+            subset.add(nums[i]);
+            dfs(nums, i+1, subset, ans);
+            subset.remove(subset.size()-1);
         }
     }
 }
