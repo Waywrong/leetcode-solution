@@ -25,6 +25,7 @@
 ### Sort Algorithms
 * [Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-sorted-array.java)
 * [Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-two-sorted-lists.java)
+* [Kth Largest Element in an Array](https://github.com/jiangxq18/leetcode/blob/master/Java/kth-largest-element-in-an-array.java)
 
 ### DFS + DP
 * [Unique Paths](https://github.com/jiangxq18/leetcode/blob/master/Java/unique-paths.java)
