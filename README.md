@@ -3,6 +3,7 @@
 ### Array
 * [Remove Duplicates from Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-duplicates-from-sorted-array.java)
 * [Remove Duplicates from Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-duplicates-from-sorted-array-ii.java)
+* [Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Java/next-permutation.java)
 
 ### Linked List
 * [Reverse Linked List](https://github.com/jiangxq18/leetcode/blob/master/Java/reverse-linked-list.java)
