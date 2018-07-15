@@ -15,6 +15,7 @@
 * [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Java/add-two-numbers.java)
 * [Rotate List](https://github.com/jiangxq18/leetcode/blob/master/Java/rotate-list.java)
 * [Remove Nth Node From End of List](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-nth-node-from-end-of-list.java)
+* [Swap Nodes in Pairs](https://github.com/jiangxq18/leetcode/blob/master/Java/swap-nodes-in-pairs.java)
 
 ### Tree Algorithms
 * [Binary Tree Preorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Java/binary-tree-preorder-traversal.java)
