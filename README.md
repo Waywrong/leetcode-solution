@@ -30,6 +30,7 @@
 ### Sort Algorithms
 * [Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-sorted-array.java)
 * [Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-two-sorted-lists.java)
+* [Sort List](https://github.com/jiangxq18/leetcode/blob/master/Java/sort-list.java)
 * [Kth Largest Element in an Array](https://github.com/jiangxq18/leetcode/blob/master/Java/kth-largest-element-in-an-array.java)
 
 ### DFS + DP
