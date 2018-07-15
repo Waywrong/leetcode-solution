@@ -16,6 +16,7 @@
 * [Rotate List](https://github.com/jiangxq18/leetcode/blob/master/Java/rotate-list.java)
 * [Remove Nth Node From End of List](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-nth-node-from-end-of-list.java)
 * [Swap Nodes in Pairs](https://github.com/jiangxq18/leetcode/blob/master/Java/swap-nodes-in-pairs.java)
+* [Copy List with Random Pointer](https://github.com/jiangxq18/leetcode/blob/master/Java/copy-list-with-random-pointer.java)
 
 ### Tree Algorithms
 * [Binary Tree Preorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Java/binary-tree-preorder-traversal.java)
@@ -27,6 +28,7 @@
 * [Convert Sorted List to Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/convert-sorted-list-to-binary-search-tree.java)
 * [Validate Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/validate-binary-search-tree.java)
 * [Balanced Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/balanced-binary-tree.java)
+* [Same Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/same-tree.java)
 
 ### Sort Algorithms
 * [Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-sorted-array.java)
