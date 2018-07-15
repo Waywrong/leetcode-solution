@@ -23,6 +23,7 @@
 * [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Java/construct-binary-tree-from-preorder-and-inorder-traversal.java)
 * [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Java/construct-binary-tree-from-inorder-and-postorder-traversal.java)
 * [Validate Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/validate-binary-search-tree.java)
+* [Balanced Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/balanced-binary-tree.java)
 
 ### Sort Algorithms
 * [Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-sorted-array.java)
