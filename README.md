@@ -14,6 +14,7 @@
 * [Remove Duplicates from Sorted List II](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-duplicates-from-sorted-list-ii.java)
 * [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Java/add-two-numbers.java)
 * [Rotate List](https://github.com/jiangxq18/leetcode/blob/master/Java/rotate-list.java)
+* [Remove Nth Node From End of List](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-nth-node-from-end-of-list.java)
 
 ### Tree Algorithms
 * [Binary Tree Preorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Java/binary-tree-preorder-traversal.java)
