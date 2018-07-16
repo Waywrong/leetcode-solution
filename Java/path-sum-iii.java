@@ -18,6 +18,7 @@ class Solution {
         return sumUp(root, sum) + pathSum(root.left, sum) + pathSum(root.right, sum);
     }
     
+    
     private int sumUp(TreeNode root, int sum) {
         int res = 0;
         if (root == null)
