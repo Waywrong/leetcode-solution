@@ -33,6 +33,8 @@
 * [Validate Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/validate-binary-search-tree.java)
 * [Balanced Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/balanced-binary-tree.java)
 * [Same Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/same-tree.java)
+* [Symmetric Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/symmetric-tree.java)
+* [Flatten Binary Tree to Linked List](https://github.com/jiangxq18/leetcode/blob/master/Java/flatten-binary-tree-to-linked-list.java)
 
 ### Sort Algorithms
 * [Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-sorted-array.java)
