@@ -33,6 +33,8 @@
 * [Path Sum](https://github.com/jiangxq18/leetcode/blob/master/Java/path-sum.java)
 * [Path Sum II](https://github.com/jiangxq18/leetcode/blob/master/Java/path-sum-ii.java)
 * [Path Sum III](https://github.com/jiangxq18/leetcode/blob/master/Java/path-sum-iii.java)
+* [Binary Tree Maximum Path Sum](https://github.com/jiangxq18/leetcode/blob/master/Java/binary-tree-maximum-path-sum.java)
+* [Sum Root to Leaf Numbers](https://github.com/jiangxq18/leetcode/blob/master/Java/sum-root-to-leaf-numbers.java)
 * [Validate Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/validate-binary-search-tree.java)
 * [Balanced Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/balanced-binary-tree.java)
 * [Same Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/same-tree.java)
