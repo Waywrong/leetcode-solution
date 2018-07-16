@@ -28,6 +28,8 @@
 * [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Java/construct-binary-tree-from-inorder-and-postorder-traversal.java)
 * [Convert Sorted Array to Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/convert-sorted-array-to-binary-search-tree.java)
 * [Convert Sorted List to Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/convert-sorted-list-to-binary-search-tree.java)
+* [Minimum Depth of Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/minimum-depth-of-binary-tree.java)
+* [Maximum Depth of Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/maximum-depth-of-binary-tree.java)
 * [Validate Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/validate-binary-search-tree.java)
 * [Balanced Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/balanced-binary-tree.java)
 * [Same Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/same-tree.java)
