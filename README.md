@@ -35,6 +35,7 @@
 * [Same Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/same-tree.java)
 * [Symmetric Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/symmetric-tree.java)
 * [Flatten Binary Tree to Linked List](https://github.com/jiangxq18/leetcode/blob/master/Java/flatten-binary-tree-to-linked-list.java)
+* [Recover Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/recover-binary-search-tree.java)
 
 ### Sort Algorithms
 * [Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-sorted-array.java)
