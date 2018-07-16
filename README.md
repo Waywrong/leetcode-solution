@@ -17,6 +17,8 @@
 * [Remove Nth Node From End of List](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-nth-node-from-end-of-list.java)
 * [Swap Nodes in Pairs](https://github.com/jiangxq18/leetcode/blob/master/Java/swap-nodes-in-pairs.java)
 * [Copy List with Random Pointer](https://github.com/jiangxq18/leetcode/blob/master/Java/copy-list-with-random-pointer.java)
+* [Partition List](https://github.com/jiangxq18/leetcode/blob/master/Java/partition-list.java)
+* [Reverse Nodes in K-groups](https://github.com/jiangxq18/leetcode/blob/master/Java/reverse-nodes-in-k-groups.java)
 
 ### Tree Algorithms
 * [Binary Tree Preorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Java/binary-tree-preorder-traversal.java)
