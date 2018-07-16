@@ -63,6 +63,7 @@
 * [Coin Change](https://github.com/jiangxq18/leetcode/blob/master/Java/coin-change.java)
 * [Triangle](https://github.com/jiangxq18/leetcode/blob/master/Java/triangle.java)
 * [Maximum Subarray](https://github.com/jiangxq18/leetcode/blob/master/Java/maximum-subarray.java)
+* [Longest Increasing Subsequence](https://github.com/jiangxq18/leetcode/blob/master/Java/longest-increasing-subsequence.java)
 
 ### System Design
 * [Merge Intervals](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-intervals.java)
