@@ -3,6 +3,8 @@
 ### Array
 * [Remove Duplicates from Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-duplicates-from-sorted-array.java)
 * [Remove Duplicates from Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-duplicates-from-sorted-array-ii.java)
+* [Search in Rotated Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Java/search-in-rotated-sorted-array.java)
+* [Search in Rotated Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Java/search-in-rotated-sorted-array-ii.java)
 * [Search for a Range](https://github.com/jiangxq18/leetcode/blob/master/Java/search-for-a-range.java)
 * [Search Insert Position](https://github.com/jiangxq18/leetcode/blob/master/Java/search-insert-position.java)
 * [Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Java/next-permutation.java)
