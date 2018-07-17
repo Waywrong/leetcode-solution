@@ -4,6 +4,7 @@
 * [Remove Duplicates from Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-duplicates-from-sorted-array.java)
 * [Remove Duplicates from Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-duplicates-from-sorted-array-ii.java)
 * [Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Java/next-permutation.java)
+* [Remove Element](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-element.java)
 
 ### Linked List
 * [Reverse Linked List](https://github.com/jiangxq18/leetcode/blob/master/Java/reverse-linked-list.java)
@@ -29,6 +30,8 @@
 * [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Java/construct-binary-tree-from-inorder-and-postorder-traversal.java)
 * [Convert Sorted Array to Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/convert-sorted-array-to-binary-search-tree.java)
 * [Convert Sorted List to Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/convert-sorted-list-to-binary-search-tree.java)
+* [Populating Next Right Pointers in Each Node](https://github.com/jiangxq18/leetcode/blob/master/Java/populating-next-right-pointers-in-each-node.java)
+* [Populating Next Right Pointers in Each Node II](https://github.com/jiangxq18/leetcode/blob/master/Java/populating-next-right-pointers-in-each-node-ii.java)
 * [Minimum Depth of Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/minimum-depth-of-binary-tree.java)
 * [Maximum Depth of Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Java/maximum-depth-of-binary-tree.java)
 * [Path Sum](https://github.com/jiangxq18/leetcode/blob/master/Java/path-sum.java)
