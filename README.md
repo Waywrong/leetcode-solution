@@ -17,7 +17,6 @@
 * [Linked List Cycle II](https://github.com/jiangxq18/leetcode/blob/master/Java/linked-list-cycle-ii.java)
 * [Remove Duplicates from Sorted List](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-duplicates-from-sorted-list.java)
 * [Remove Duplicates from Sorted List II](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-duplicates-from-sorted-list-ii.java)
-* [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Java/add-two-numbers.java)
 * [Rotate List](https://github.com/jiangxq18/leetcode/blob/master/Java/rotate-list.java)
 * [Remove Nth Node From End of List](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-nth-node-from-end-of-list.java)
 * [Swap Nodes in Pairs](https://github.com/jiangxq18/leetcode/blob/master/Java/swap-nodes-in-pairs.java)
@@ -76,3 +75,5 @@
 ### System Design
 * [Merge Intervals](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-intervals.java)
 * [Insert Interval](https://github.com/jiangxq18/leetcode/blob/master/Java/insert-interval.java)
+* [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Java/two-sum.java)
+* [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Java/add-two-numbers.java)
