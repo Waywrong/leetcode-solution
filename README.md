@@ -7,6 +7,12 @@
 * [Search in Rotated Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Java/search-in-rotated-sorted-array-ii.java)
 * [Search for a Range](https://github.com/jiangxq18/leetcode/blob/master/Java/search-for-a-range.java)
 * [Search Insert Position](https://github.com/jiangxq18/leetcode/blob/master/Java/search-insert-position.java)
+* [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Java/two-sum.java)
+* [3Sum](https://github.com/jiangxq18/leetcode/blob/master/Java/3sum.java)
+* [3Sum Closest](https://github.com/jiangxq18/leetcode/blob/master/Java/3sum-closest.java)
+* [4Sum](https://github.com/jiangxq18/leetcode/blob/master/Java/4sum.java)
+* [Merge Intervals](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-intervals.java)
+* [Insert Interval](https://github.com/jiangxq18/leetcode/blob/master/Java/insert-interval.java)
 * [Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Java/next-permutation.java)
 * [Remove Element](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-element.java)
 
@@ -24,6 +30,7 @@
 * [Partition List](https://github.com/jiangxq18/leetcode/blob/master/Java/partition-list.java)
 * [Reverse Nodes in K-groups](https://github.com/jiangxq18/leetcode/blob/master/Java/reverse-nodes-in-k-groups.java)
 * [Reorder List](https://github.com/jiangxq18/leetcode/blob/master/Java/reorder-list.java)
+* [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Java/add-two-numbers.java)
 
 ### Tree Algorithms
 * [Binary Tree Preorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Java/binary-tree-preorder-traversal.java)
@@ -71,9 +78,3 @@
 * [Triangle](https://github.com/jiangxq18/leetcode/blob/master/Java/triangle.java)
 * [Maximum Subarray](https://github.com/jiangxq18/leetcode/blob/master/Java/maximum-subarray.java)
 * [Longest Increasing Subsequence](https://github.com/jiangxq18/leetcode/blob/master/Java/longest-increasing-subsequence.java)
-
-### System Design
-* [Merge Intervals](https://github.com/jiangxq18/leetcode/blob/master/Java/merge-intervals.java)
-* [Insert Interval](https://github.com/jiangxq18/leetcode/blob/master/Java/insert-interval.java)
-* [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Java/two-sum.java)
-* [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Java/add-two-numbers.java)
