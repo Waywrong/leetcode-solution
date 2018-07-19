@@ -38,6 +38,7 @@
 * [Reverse Nodes in K-groups](https://github.com/jiangxq18/leetcode/blob/master/Java/reverse-nodes-in-k-groups.java)
 * [Reorder List](https://github.com/jiangxq18/leetcode/blob/master/Java/reorder-list.java)
 * [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Java/add-two-numbers.java)
+* [Intersection of Two Linked Lists](https://github.com/jiangxq18/leetcode/blob/master/Java/intersection-of-two-linked-lists.java)
 
 ### String
 * [Add Strings](https://github.com/jiangxq18/leetcode/blob/master/Java/add-strings.java)
