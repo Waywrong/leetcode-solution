@@ -19,6 +19,7 @@
 * [Insert Interval](https://github.com/jiangxq18/leetcode/blob/master/Java/insert-interval.java)
 * [Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Java/next-permutation.java)
 * [Remove Element](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-element.java)
+* [Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Java/valid-parentheses.java)
 
 ### Linked List
 * [Reverse Linked List](https://github.com/jiangxq18/leetcode/blob/master/Java/reverse-linked-list.java)
