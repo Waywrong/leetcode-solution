@@ -9,6 +9,8 @@
 * [Find Minimum in Rotated Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Java/find-minimum-in-rotated-sorted-array-ii.java)
 * [Search for a Range](https://github.com/jiangxq18/leetcode/blob/master/Java/search-for-a-range.java)
 * [Search Insert Position](https://github.com/jiangxq18/leetcode/blob/master/Java/search-insert-position.java)
+* [Majority Element](https://github.com/jiangxq18/leetcode/blob/master/Java/majority-element.java)
+* [Majority Element II](https://github.com/jiangxq18/leetcode/blob/master/Java/majority-element-ii.java)
 * [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Java/two-sum.java)
 * [3Sum](https://github.com/jiangxq18/leetcode/blob/master/Java/3sum.java)
 * [3Sum Closest](https://github.com/jiangxq18/leetcode/blob/master/Java/3sum-closest.java)
