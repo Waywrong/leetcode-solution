@@ -20,16 +20,16 @@ class Solution {
 // Time O(N), Space O(1)
 class Solution {
     public int majorityElement(int[] nums) {
-        int count = 1, major = nums[0];
-        for (int i=1; i<nums.length; i++) {
-            if (count == 0) {
-                count ++;
-                major = nums[i];
+        int major = 0, cnt = 0;
+        for (int n : nums) {
+            if (n == major)
+                cnt ++;
+            else if (cnt == 0) {
+                cnt ++;
+                major = n;
             }
-            else if (nums[i] == major)
-                count ++;
             else
-                count --;
+                cnt --;
         }
         return major;
     }
