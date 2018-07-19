@@ -87,6 +87,8 @@
 * [Combinations](https://github.com/jiangxq18/leetcode/blob/master/Java/combinations.java)
 * [Best Time to Buy and Sell Stock](https://github.com/jiangxq18/leetcode/blob/master/Java/best-time-to-buy-and-sell-stock.java)
 * [Best Time to Buy and Sell Stock II](https://github.com/jiangxq18/leetcode/blob/master/Java/best-time-to-buy-and-sell-stock-ii.java)
+* [Best Time to Buy and Sell Stock III](https://github.com/jiangxq18/leetcode/blob/master/Java/best-time-to-buy-and-sell-stock-iii.java)
+* [Best Time to Buy and Sell Stock IV](https://github.com/jiangxq18/leetcode/blob/master/Java/best-time-to-buy-and-sell-stock-iv.java)
 * [House Robber](https://github.com/jiangxq18/leetcode/blob/master/Java/house-robber.java)
 * [Coin Change](https://github.com/jiangxq18/leetcode/blob/master/Java/coin-change.java)
 * [Triangle](https://github.com/jiangxq18/leetcode/blob/master/Java/triangle.java)
