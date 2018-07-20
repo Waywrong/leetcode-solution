@@ -85,6 +85,8 @@
 * [Combination Sum](https://github.com/jiangxq18/leetcode/blob/master/Java/combination-sum.java)
 * [Combination Sum II](https://github.com/jiangxq18/leetcode/blob/master/Java/combination-sum-ii.java)
 * [Combinations](https://github.com/jiangxq18/leetcode/blob/master/Java/combinations.java)
+* [Word Search](https://github.com/jiangxq18/leetcode/blob/master/Java/word-search.java)
+* [Word Search II](https://github.com/jiangxq18/leetcode/blob/master/Java/word-search-ii.java)
 * [Best Time to Buy and Sell Stock](https://github.com/jiangxq18/leetcode/blob/master/Java/best-time-to-buy-and-sell-stock.java)
 * [Best Time to Buy and Sell Stock II](https://github.com/jiangxq18/leetcode/blob/master/Java/best-time-to-buy-and-sell-stock-ii.java)
 * [Best Time to Buy and Sell Stock III](https://github.com/jiangxq18/leetcode/blob/master/Java/best-time-to-buy-and-sell-stock-iii.java)
