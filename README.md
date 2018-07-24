@@ -107,6 +107,6 @@
 * [Convert Sorted Array to Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Interview/convert-sorted-array-to-binary-search-tree.java)
 * [Single Number](https://github.com/jiangxq18/leetcode/blob/master/Interview/single-number.java)
 * [Intersection of Two Linked Lists](https://github.com/jiangxq18/leetcode/blob/master/Interview/intersection-of-two-linked-lists.java)
-* [Reverse Bits](https://gihtub.com/jiangxq18/leetcode/blob/master/Interview/reverse-bits.java)
+* [Reverse Bits](https://github.com/jiangxq18/leetcode/blob/master/Interview/reverse-bits.java)
 * [House Robber](https://github.com/jiangxq18/leetcode/blob/master/Interview/house-robber.java)
 * [Add Strings](https://github.com/jiangxq18/leetcode/blob/master/Interview/add-strings.java)
