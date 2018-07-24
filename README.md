@@ -102,8 +102,9 @@
 
 ### Interview
 * [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Interview/two-sum.java)
-* [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Inteview/add-two-numbers.java)
+* [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Interview/add-two-numbers.java)
 * [Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Interview/valid-parentheses.java)
 * [Convert Sorted Array to Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Interview/convert-sorted-array-to-binary-search-tree.java)
 * [Single Number](https://github.com/jiangxq18/leetcode/blob/master/Interview/single-number.java)
+* [House Robber](https://github.com/jiangxq18/leetcode/blob/master/Interview/house-robber.java)
 * [Add Strings](https://github.com/jiangxq18/leetcode/blob/master/Interview/add-strings.java)
