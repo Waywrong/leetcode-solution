@@ -1,6 +1,6 @@
 //  Merge K Sorted Lists
 
-// Time O(N/2^N), Space O(N)
+// Time O(NlogK), Space O(N)
 /**
  * Definition for singly-linked list.
  * public class ListNode {
