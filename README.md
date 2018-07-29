@@ -110,7 +110,7 @@
 * [Longest Increasing Subsequence](https://github.com/jiangxq18/leetcode/blob/master/Java/longest-increasing-subsequence.java)
 
 ### Interview
-* [Palindrome Pairs](https://github.com/jiangxq18/leetcode/blob/master/Interview/palindrome-paris.java)
+* [Palindrome Pairs](https://github.com/jiangxq18/leetcode/blob/master/Interview/palindrome-paris.cc)
 * [Flatten 2D Vector](https://github.com/jiangxq18/leetcode/blob/master/Interview/flatten-2d-vector.java)
 * [IP to CIDR](https://github.com/jiangxq18/leetcode/blob/master/Interview/ip-to-cidr.java)
 * [Pour Water](https://github.com/jiangxq18/leetcode/blob/master/Interview/pour-water.java)
