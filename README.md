@@ -109,7 +109,12 @@
 * [Palindrome Pairs](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/palindrome-pairs.cc)
 * [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/two-sum.cc)
 * [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/add-two-numbers.cc)
+* [House Robber](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/house-robber.cc)
 * [Regular Expression Matching](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/regular-expression-matching.cc)
+* [Single Number](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/single-number.cc)
+* [Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/valid-parentheses.cc)
+* [Happy Number](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/happy-number.cc)
+* [Intersection of Two Linked Lists](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/intersection-of-two-linked-lists.cc)
 * [Add Strings](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/add-strings.cc)
 
 ### System Design
