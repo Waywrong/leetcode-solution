@@ -106,8 +106,10 @@
 * [Longest Increasing Subsequence](https://github.com/jiangxq18/leetcode/blob/master/Java/longest-increasing-subsequence.java)
 
 ### Interview
-* [Palindrome Pairs](https://github.com/jiangxq18/leetcode/blob/master/Interview/palindrome-pairs.cc)
-* [Regular Expression Matching](https://github.com/jiangxq18/leetcode/blob/master/Interview/regular-expression-matching.cc)
+* [Palindrome Pairs](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/palindrome-pairs.cc)
+* [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/two-sum.cc)
+* [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/add-two-numbers.cc)
+* [Regular Expression Matching](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/regular-expression-matching.cc)
 
 ### System Design
 * [Design Linked List](https://github.com/jiangxq18/leetcode/blob/master/System/design-linked-list.cc)
