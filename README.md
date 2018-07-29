@@ -7,7 +7,6 @@
 * [Search in Rotated Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Java/search-in-rotated-sorted-array-ii.java)
 * [Find Minimum in Rotated Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Java/find-minimum-in-rotated-sorted-array.java)
 * [Find Minimum in Rotated Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Java/find-minimum-in-rotated-sorted-array-ii.java)
-* [Search for a Range](https://github.com/jiangxq18/leetcode/blob/master/Java/search-for-a-range.java)
 * [Search Insert Position](https://github.com/jiangxq18/leetcode/blob/master/Java/search-insert-position.java)
 * [Majority Element](https://github.com/jiangxq18/leetcode/blob/master/Java/majority-element.java)
 * [Majority Element II](https://github.com/jiangxq18/leetcode/blob/master/Java/majority-element-ii.java)
@@ -21,7 +20,6 @@
 * [Insert Interval](https://github.com/jiangxq18/leetcode/blob/master/Java/insert-interval.java)
 * [Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Java/next-permutation.java)
 * [Remove Element](https://github.com/jiangxq18/leetcode/blob/master/Java/remove-element.java)
-* [Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Java/valid-parentheses.java)
 
 ### Linked List
 * [Reverse Linked List](https://github.com/jiangxq18/leetcode/blob/master/Java/reverse-linked-list.java)
@@ -41,14 +39,12 @@
 * [Intersection of Two Linked Lists](https://github.com/jiangxq18/leetcode/blob/master/Java/intersection-of-two-linked-lists.java)
 
 ### String
-* [Add Strings](https://github.com/jiangxq18/leetcode/blob/master/Java/add-strings.java)
 * [Valid Palindrome](https://github.com/jiangxq18/leetcode/blob/master/Java/valid-palindrome.java)
 * [Longest Palindrome Substring](https://github.com/jiangxq18/leetcode/blob/master/Java/longest-palindrome-substring.java)
 * [String to Integer (atoi)](https://github.com/jiangxq18/leetcode/blob/master/Java/string-to-integer-atoi.java)
 * [Regular Expression Matching](https://github.com/jiangxq18/leetcode/blob/master/Java/regular-expression-matching.java)
 * [Longest Common Prefix](https://github.com/jiangxq18/leetcode/blob/master/Java/longest-common-prefix.java)
 * [Wildcard Matching](https://github.com/jiangxq18/leetcode/blob/master/Java/wildcard-matching.java)
-* [Angrams](https://github.com/jiangxq18/leetcode/blob/master/Java/angrams.java)
 * [Simpify Path](https://github.com/jiangxq18/leetcode/blob/master/Java/simplify-path.java)
 * [Count and Say](https://github.com/jiangxq18/leetcode/blob/master/Java/count-and-say.java)
 
@@ -111,32 +107,8 @@
 
 ### Interview
 * [Palindrome Pairs](https://github.com/jiangxq18/leetcode/blob/master/Interview/palindrome-pairs.cc)
-* [Flatten 2D Vector](https://github.com/jiangxq18/leetcode/blob/master/Interview/flatten-2d-vector.java)
-* [IP to CIDR](https://github.com/jiangxq18/leetcode/blob/master/Interview/ip-to-cidr.java)
-* [Pour Water](https://github.com/jiangxq18/leetcode/blob/master/Interview/pour-water.java)
-* [Alien Dictionary](https://github.com/jiangxq18/leetcode/blob/master/Interview/alien-dictionary.java)
-* [Text Justification](https://github.com/jiangxq18/leetcode/blob/master/Interview/text-justification.java)
-* [Sliding Puzzle](https://github.com/jiangxq18/leetcode/blob/master/Interview/sliding-puzzle.java)
-* [Cheapest Flights Within K Stops](https://github.com/jiangxq18/leetcode/blob/master/Interview/cheapest-flights-within-k-stops.java)
-* [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Interview/two-sum.java)
-* [Pyramid Transition Matrix](https://github.com/jiangxq18/leetcode/blob/master/Interview/pymarid-transition-matrix.java)
-* [Trapping Rain Water](https://github.com/jiangxq18/leetcode/blob/master/Interview/trapping-rain-water.java)
-* [Word Search II](https://github.com/jiangxq18/leetcode/blob/master/Interview/word-search-ii.java)
-* [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Interview/add-two-numbers.java)
-* [House Robber](https://github.com/jiangxq18/leetcode/blob/master/Interview/house-robber.java)
-* [Contains Duplicate II](https://github.com/jiangxq18/leetcode/blob/master/Interview/contains-duplicate-ii.java)
 * [Regular Expression Matching](https://github.com/jiangxq18/leetcode/blob/master/Interview/regular-expression-matching.cc)
-* [Single Number](https://github.com/jiangxq18/leetcode/blob/master/Interview/single-number.java)
-* [Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Interview/valid-parentheses.java)
-* [Happy Number](https://github.com/jiangxq18/leetcode/blob/master/Interview/happy-number.java)
-* [Convert Sorted Array to Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Interview/convert-sorted-array-to-binary-search-tree.java)
-* [Maimal Square](https://github.com/jiangxq18/leetcode/blob/master/Interview/maximal-square.java)
-* [Reverse Bits](https://github.com/jiangxq18/leetcode/blob/master/Interview/reverse-bits.java)
-* [Intersection of Two Linked Lists](https://github.com/jiangxq18/leetcode/blob/master/Interview/intersection-of-two-linked-lists.java)
-* [Contains Duplicate](https://github.com/jiangxq18/leetcode/blob/master/Interview/contains-duplicate.java)
-* [Contains Duplicate III](https://github.com/jiangxq18/leetcode/blob/master/Interview/contains-duplicate-iii.java)
-* [Merge k Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Interview/merge-k-sorted-lists.java)
-* [Add Strings](https://github.com/jiangxq18/leetcode/blob/master/Interview/add-strings.java)
-* [Basic Caculator II](https://github.com/jiangxq18/leetcode/blob/master/Interview/basic-caculator-ii.java)
-* [Employee Free Time](https://github.com/jiangxq18/leetcode/blob/master/Interview/employee-free-time.java)
-* [Mini Parser](https://github.com/jiangxq18/leetcode/blob/master/Interview/mini-parser.java)
+
+### System Design
+* [Design Linked List](https://github.com/jiangxq18/leetcode/blob/master/System/design-linked-list.cc)
+* [Logger Rate Limiter](https://github.com/jiangxq18/leetcode/blob/master/System/logger-rate-limiter.cc)
