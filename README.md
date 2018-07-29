@@ -114,7 +114,9 @@
 * [Single Number](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/single-number.cc)
 * [Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/valid-parentheses.cc)
 * [Happy Number](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/happy-number.cc)
+* [Convert Sorted Array to Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/convert-sorted-array-to-binary-search-tree.cc)
 * [Intersection of Two Linked Lists](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/intersection-of-two-linked-lists.cc)
+* [Contains Duplicate](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/contains-duplicate.cc)
 * [Add Strings](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/add-strings.cc)
 
 ### System Design
