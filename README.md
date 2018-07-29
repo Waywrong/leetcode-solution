@@ -125,7 +125,7 @@
 * [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Interview/add-two-numbers.java)
 * [House Robber](https://github.com/jiangxq18/leetcode/blob/master/Interview/house-robber.java)
 * [Contains Duplicate II](https://github.com/jiangxq18/leetcode/blob/master/Interview/contains-duplicate-ii.java)
-* [Regular Expression Matching](https://github.com/jiangxq18/leetcode/blob/master/Interview/regular-expression-matching.java)
+* [Regular Expression Matching](https://github.com/jiangxq18/leetcode/blob/master/Interview/regular-expression-matching.cc)
 * [Single Number](https://github.com/jiangxq18/leetcode/blob/master/Interview/single-number.java)
 * [Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Interview/valid-parentheses.java)
 * [Happy Number](https://github.com/jiangxq18/leetcode/blob/master/Interview/happy-number.java)
