@@ -132,6 +132,7 @@
 * [Flatten 2D Vector](https://github.com/jiangxq18/leetcode/blob/master/System/flatten-2d-vector.cc)
 * [Moving Average from Data Stream](https://github.com/jiangxq18/leetcode/blob/master/System/moving-average-from-data-stream.cc)
 * [Logger Rate Limiter](https://github.com/jiangxq18/leetcode/blob/master/System/logger-rate-limiter.cc)
+* [Design Compressed String Iterator](https://github.com/jiangxq18/leetcode/blob/master/System/design-compressed-string-iterator.cc)
 * [Design HashSet](https://github.com/jiangxq18/leetcode/blob/master/System/design-hashset.cc)
 * [Design HashMap](https://github.com/jiangxq18/leetcode/blob/master/System/design-hashmap.cc)
 * [Design Linked List](https://github.com/jiangxq18/leetcode/blob/master/System/design-linked-list.cc)
