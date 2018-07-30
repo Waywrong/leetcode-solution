@@ -122,6 +122,7 @@
 * [Reverse Bits](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/reverse-bits.cc)
 * [Intersection of Two Linked Lists](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/intersection-of-two-linked-lists.cc)
 * [Contains Duplicate](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/contains-duplicate.cc)
+* [Contains Duplicate III](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/contains-duplicate-iii.cc)
 * [Merge k Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/merge-k-sorted-lists.cc)
 * [Add Strings](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/add-strings.cc)
 
