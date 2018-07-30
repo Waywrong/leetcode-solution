@@ -107,9 +107,12 @@
 
 ### Airbnb
 * [Palindrome Pairs](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/palindrome-pairs.cc)
+* [Flatten 2D Vector](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/flatten-2d-vector.cc)
 * [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/two-sum.cc)
+* [Word Search II](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/word-search-ii.cc)
 * [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/add-two-numbers.cc)
 * [House Robber](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/house-robber.cc)
+* [Contains Duplicate II](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/contains-duplicate-ii.cc)
 * [Regular Expression Matching](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/regular-expression-matching.cc)
 * [Single Number](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/single-number.cc)
 * [Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/valid-parentheses.cc)
