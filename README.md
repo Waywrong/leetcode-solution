@@ -125,6 +125,7 @@
 
 ### System Design
 * [Min Stack](https://github.com/jiangxq18/leetcode/blob/master/System/min-stack.cc)
+* [Two Sum III - Data structure design](https://github.com/jiangxq18/leetcode/blob/master/System/two-sum-iii-data-structure-design.cc)
 * [Flatten 2D Vector](https://github.com/jiangxq18/leetcode/blob/master/System/flatten-2d-vector.cc)
 * [Implement Stack using Queues](https://github.com/jiangxq18/leetcode/blob/master/System/implement-stack-using-queues.cc)
 * [Implement Queue using Stacks](https://github.com/jiangxq18/leetcode/blob/master/System/implement-queue-using-stacks.cc)
