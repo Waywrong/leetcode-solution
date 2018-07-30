@@ -124,5 +124,7 @@
 * [Add Strings](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/add-strings.cc)
 
 ### System Design
-* [Design Linked List](https://github.com/jiangxq18/leetcode/blob/master/System/design-linked-list.cc)
+* [Min Stack](https://github.com/jiangxq18/leetcode/blob/master/System/min-stack.cc)
+* [Flatten 2D Vector](https://github.com/jiangxq18/leetcode/blob/master/System/flatten-2d-vector.cc)
 * [Logger Rate Limiter](https://github.com/jiangxq18/leetcode/blob/master/System/logger-rate-limiter.cc)
+* [Design Linked List](https://github.com/jiangxq18/leetcode/blob/master/System/design-linked-list.cc)
