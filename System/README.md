@@ -4,6 +4,7 @@
 * [Implement Stack using Queues](https://github.com/jiangxq18/leetcode/blob/master/System/implement-stack-using-queues.cc)
 * [Implement Queue using Stacks](https://github.com/jiangxq18/leetcode/blob/master/System/implement-queue-using-stacks.cc)
 * [Flatten 2D Vector](https://github.com/jiangxq18/leetcode/blob/master/System/flatten-2d-vector.cc)
+* [Peeking Iterator](https://github.com/jiangxq18/leetcode/blob/master/Syste/peeking-iterator.cc)
 * [Moving Average from Data Stream](https://github.com/jiangxq18/leetcode/blob/master/System/moving-average-from-data-stream.cc)
 * [Logger Rate Limiter](https://github.com/jiangxq18/leetcode/blob/master/System/logger-rate-limiter.cc)
 * [Design Compressed String Iterator](https://github.com/jiangxq18/leetcode/blob/master/System/design-compressed-string-iterator.cc)
