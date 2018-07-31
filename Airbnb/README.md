@@ -2,6 +2,7 @@
 * [Palindrome Pairs](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/palindrome-pairs.cc)
 * [Flatten 2D Vector](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/flatten-2d-vector.cc)
 * [IP to CIDR](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/ip-to-cidr.cc)
+* [Alien Dictionary](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/alien-dictionary.cc)
 * [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/two-sum.cc)
 * [Word Search II](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/word-search-ii.cc)
 * [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/add-two-numbers.cc)
