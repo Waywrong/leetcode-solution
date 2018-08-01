@@ -21,3 +21,5 @@
 [98 - Valid Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/valid-binary-search-tree.cc)
 
 [144 - Binary Tree Preorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/binary-tree-preorder-traversal.cc)
+
+[145 - Binary Tree Postorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/binary-tree-postorder-traversal.cc)
