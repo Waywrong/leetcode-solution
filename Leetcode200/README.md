@@ -16,4 +16,8 @@
 
 [60 - Permutation Sequence](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/permutation-sequence.cc)
 
+[94 - Binary Tree Inorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/binary-tree-inorder-traversal.cc)
+
 [98 - Valid Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/valid-binary-search-tree.cc)
+
+[144 - Binary Tree Preorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/binary-tree-preorder-traversal.cc)
