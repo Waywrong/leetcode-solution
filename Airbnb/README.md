@@ -2,6 +2,7 @@
 * [Palindrome Pairs](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/palindrome-pairs.cc)
 * [Flatten 2D Vector](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/flatten-2d-vector.cc)
 * [IP to CIDR](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/ip-to-cidr.cc)
+* [Pour Water](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/pour-water.cc)
 * [Alien Dictionary](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/alien-dictionary.cc)
 * [Cheapest Flights Within K Stops](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/cheapest-flights-within-k-stops.cc)
 * [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/two-sum.cc)
@@ -20,3 +21,4 @@
 * [Contains Duplicate III](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/contains-duplicate-iii.cc)
 * [Merge k Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/merge-k-sorted-lists.cc)
 * [Add Strings](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/add-strings.cc)
+* [Employee Free Time](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/employee-free-time.cc)
