@@ -7,6 +7,7 @@
 * [Alien Dictionary](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/alien-dictionary.cc)
 * [Cheapest Flights Within K Stops](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/cheapest-flights-within-k-stops.cc)
 * [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/two-sum.cc)
+* [Trapping Rain Water](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/trapping-rain-water.cc)
 * [Word Search II](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/word-search-ii.cc)
 * [Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/add-two-numbers.cc)
 * [House Robber](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/house-robber.cc)
