@@ -1,4 +1,5 @@
 ### Leetcode 200
+[21 - Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-two-sorted-lists.cc)
 
 [31 - Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/next-permutation.cc)
 
@@ -15,6 +16,8 @@
 [57 - Insert Interval](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/insert-interval.cc)
 
 [60 - Permutation Sequence](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/permutation-sequence.cc)
+
+[67 - Add Binary](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/add-binary.cc)
 
 [88 - Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-sorted-array.cc)
 
