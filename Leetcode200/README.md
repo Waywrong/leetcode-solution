@@ -1,4 +1,6 @@
 ### Leetcode 200
+[8 - String to Integer (atoi)](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/string-to-integer-atoi.cc)
+
 [21 - Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-two-sorted-lists.cc)
 
 [31 - Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/next-permutation.cc)
@@ -30,6 +32,8 @@
 [98 - Valid Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/valid-binary-search-tree.cc)
 
 [110 - Balanced Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/balanced-binary-tree.cc)
+
+[125 - Valid Palindrome](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/valid-palindrome.cc)
 
 [144 - Binary Tree Preorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/binary-tree-preorder-traversal.cc)
 
