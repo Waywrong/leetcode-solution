@@ -19,11 +19,17 @@
 
 [67 - Add Binary](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/add-binary.cc)
 
+[78 - Subsets](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/subsets.cc)
+
 [88 - Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-sorted-array.cc)
+
+[90 - Subsets II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/subsets-ii.cc)
 
 [94 - Binary Tree Inorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/binary-tree-inorder-traversal.cc)
 
 [98 - Valid Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/valid-binary-search-tree.cc)
+
+[110 - Balanced Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/balanced-binary-tree.cc)
 
 [144 - Binary Tree Preorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/binary-tree-preorder-traversal.cc)
 
