@@ -3,6 +3,8 @@
 
 [21 - Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-two-sorted-lists.cc)
 
+[28 - Implement strStr()](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/implement-strstr.cc)
+
 [31 - Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/next-permutation.cc)
 
 [46 - Permutations](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/permutations.cc)
