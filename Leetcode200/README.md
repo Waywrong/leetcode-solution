@@ -15,6 +15,8 @@
 
 [52 - N-Queens II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/n-queens-ii.cc)
 
+[53 - Maximum Subarray](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/maximum-subarray.cc)
+
 [56 - Merge Intervals](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-intervals.cc)
 
 [57 - Insert Interval](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/insert-interval.cc)
@@ -34,6 +36,10 @@
 [98 - Valid Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/valid-binary-search-tree.cc)
 
 [110 - Balanced Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/balanced-binary-tree.cc)
+
+[121 - Best Time to Buy and Sell Stock](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/best-time-to-buy-and-sell-stock.cc)
+
+[122 - Best Time to Buy and Sell Stock II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/best-time-to-buy-and-sell-stock-ii.cc)
 
 [125 - Valid Palindrome](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/valid-palindrome.cc)
 
