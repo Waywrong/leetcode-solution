@@ -24,3 +24,4 @@
 * [Merge k Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/merge-k-sorted-lists.cc)
 * [Add Strings](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/add-strings.cc)
 * [Employee Free Time](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/employee-free-time.cc)
+* [Mini Parser](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/mini-parser.cc)
