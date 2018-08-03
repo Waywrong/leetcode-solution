@@ -1,4 +1,10 @@
 ### Leetcode 200
+[1 - Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/two-sum.cc)
+
+[2 - Add Two Numbers](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/add-two-numbers.cc)
+
+[3 - Longest Substring Without Repeating Characters](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/longest-substring-without-repeating-characters.cc)
+
 [8 - String to Integer (atoi)](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/string-to-integer-atoi.cc)
 
 [21 - Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-two-sorted-lists.cc)
