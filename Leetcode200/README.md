@@ -5,7 +5,11 @@
 
 [3 - Longest Substring Without Repeating Characters](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/longest-substring-without-repeating-characters.cc)
 
+[7 - Reverse Integer](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/reverse-integer.cc)
+
 [8 - String to Integer (atoi)](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/string-to-integer-atoi.cc)
+
+[9 - Palindrome Number](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/palindrome-number.cc)
 
 [21 - Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-two-sorted-lists.cc)
 
