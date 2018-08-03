@@ -11,6 +11,8 @@
 
 [9 - Palindrome Number](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/palindrome-number.cc)
 
+[20 - Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/valid-parentheses.cc)
+
 [21 - Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-two-sorted-lists.cc)
 
 [28 - Implement strStr()](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/implement-strstr.cc)
