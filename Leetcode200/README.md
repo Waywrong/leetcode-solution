@@ -35,6 +35,8 @@
 
 [71 - Simplify Path](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/simplify-path.cc)
 
+[75 - Sort Colors](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/sort-colors.cc)
+
 [78 - Subsets](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/subsets.cc)
 
 [88 - Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-sorted-array.cc)
