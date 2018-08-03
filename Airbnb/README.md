@@ -6,6 +6,7 @@
 * [IP to CIDR](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/ip-to-cidr.cc)
 * [Pour Water](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/pour-water.cc)
 * [Alien Dictionary](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/alien-dictionary.cc)
+* [Text Justification](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/text-justification.cc)
 * [Cheapest Flights Within K Stops](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/cheapest-flights-within-k-stops.cc)
 * [Two Sum](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/two-sum.cc)
 * [Trapping Rain Water](https://github.com/jiangxq18/leetcode/blob/master/Airbnb/trapping-rain-water.cc)
