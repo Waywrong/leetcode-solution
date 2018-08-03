@@ -5,11 +5,15 @@
 
 [3 - Longest Substring Without Repeating Characters](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/longest-substring-without-repeating-characters.cc)
 
+[4 - Median of Two Sorted Arrays](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/median-of-two-sorted-arrays.cc)
+
 [7 - Reverse Integer](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/reverse-integer.cc)
 
 [8 - String to Integer (atoi)](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/string-to-integer-atoi.cc)
 
 [9 - Palindrome Number](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/palindrome-number.cc)
+
+[15 - 3Sum](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/3sum.cc)
 
 [20 - Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/valid-parentheses.cc)
 
@@ -38,6 +42,8 @@
 [67 - Add Binary](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/add-binary.cc)
 
 [68 - Text Justification](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/text-justification.cc)
+
+[70 - Climb Stairs](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/climb-stairs.cc)
 
 [71 - Simplify Path](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/simplify-path.cc)
 
