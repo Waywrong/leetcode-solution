@@ -31,6 +31,8 @@
 
 [67 - Add Binary](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/add-binary.cc)
 
+[68 - Text Justification](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/text-justification.cc)
+
 [71 - Simplify Path](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/simplify-path.cc)
 
 [78 - Subsets](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/subsets.cc)
