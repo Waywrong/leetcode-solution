@@ -25,11 +25,15 @@
 
 [67 - Add Binary](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/add-binary.cc)
 
+[71 - Simplify Path](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/simplify-path.cc)
+
 [78 - Subsets](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/subsets.cc)
 
 [88 - Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-sorted-array.cc)
 
 [90 - Subsets II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/subsets-ii.cc)
+
+[93 - Restore IP Adresses](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/restore-ip-addresses.cc)
 
 [94 - Binary Tree Inorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/binary-tree-inorder-traversal.cc)
 
