@@ -50,3 +50,5 @@
 [145 - Binary Tree Postorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/binary-tree-postorder-traversal.cc)
 
 [148 - Sort List](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/sort-list.cc)
+
+[190 - Reverse Bits](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/reverse-bits.cc)
