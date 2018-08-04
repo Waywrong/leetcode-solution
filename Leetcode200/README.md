@@ -29,6 +29,10 @@
 
 [31 - Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/next-permutation.cc)
 
+[39 - Combination Sum](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/combination-sum.cc)
+
+[40 - Combination Sum II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/combination-sum-ii.cc)
+
 [46 - Permutations](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/permutations.cc)
 
 [47 - Permutations II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/permutations-ii.cc)
@@ -58,6 +62,8 @@
 [71 - Simplify Path](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/simplify-path.cc)
 
 [75 - Sort Colors](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/sort-colors.cc)
+
+[77 - Combinations](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/combinations.cc)
 
 [78 - Subsets](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/subsets.cc)
 
