@@ -33,9 +33,13 @@
 
 [53 - Maximum Subarray](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/maximum-subarray.cc)
 
+[54 - Spiral Matrix](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/spiral-matrix.cc)
+
 [56 - Merge Intervals](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-intervals.cc)
 
 [57 - Insert Interval](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/insert-interval.cc)
+
+[59 - Spiral Matrix II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/spiral-matrix-ii.cc)
 
 [60 - Permutation Sequence](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/permutation-sequence.cc)
 
@@ -80,6 +84,8 @@
 [145 - Binary Tree Postorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/binary-tree-postorder-traversal.cc)
 
 [148 - Sort List](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/sort-list.cc)
+
+[160 - Intersection of Two Linked Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/intersection-of-two-linked-lists.cc)
 
 [190 - Reverse Bits](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/reverse-bits.cc)
 
