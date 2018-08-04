@@ -7,6 +7,8 @@
 
 [4 - Median of Two Sorted Arrays](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/median-of-two-sorted-arrays.cc)
 
+[6 - ZigZag Conversion](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/zigzag-conversion.cc)
+
 [7 - Reverse Integer](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/reverse-integer.cc)
 
 [8 - String to Integer (atoi)](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/string-to-integer-atoi.cc)
@@ -20,6 +22,8 @@
 [21 - Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-two-sorted-lists.cc)
 
 [28 - Implement strStr()](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/implement-strstr.cc)
+
+[29 - Divide Two Integers](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/divide-two-integers.cc)
 
 [31 - Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/next-permutation.cc)
 
