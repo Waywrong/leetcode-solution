@@ -63,6 +63,10 @@
 
 [110 - Balanced Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/balanced-binary-tree.cc)
 
+[118 - Pascal's Triangle](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/pascals-triangle.cc)
+
+[119 - Pascal's Triangle II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/pascals-triangle-ii.cc)
+
 [121 - Best Time to Buy and Sell Stock](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/best-time-to-buy-and-sell-stock.cc)
 
 [122 - Best Time to Buy and Sell Stock II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/best-time-to-buy-and-sell-stock-ii.cc)
