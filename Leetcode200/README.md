@@ -17,6 +17,8 @@
 
 [15 - 3Sum](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/3sum.cc)
 
+[16 - 3Sum Closest](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/3sum-closest.cc)
+
 [20 - Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/valid-parentheses.cc)
 
 [21 - Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-two-sorted-lists.cc)
