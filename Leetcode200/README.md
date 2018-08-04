@@ -25,6 +25,10 @@
 
 [21 - Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-two-sorted-lists.cc)
 
+[26 - Remove Duplicates from Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/remove-duplicates-from-sorted-array.cc)
+
+[27 - Remove Element](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/remove-element.cc)
+
 [28 - Implement strStr()](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/implement-strstr.cc)
 
 [29 - Divide Two Integers](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/divide-two-integers.cc)
@@ -68,6 +72,8 @@
 [77 - Combinations](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/combinations.cc)
 
 [78 - Subsets](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/subsets.cc)
+
+[80 - Remove Duplicates from Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/remove-duplicates-from-sorted-array.cc)
 
 [88 - Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/merge-sorted-array.cc)
 
