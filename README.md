@@ -93,6 +93,14 @@
 
 [98 - Valid Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/valid-binary-search-tree.cc)
 
+[100 - Same Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/same-tree.cc)
+
+[101 - Symmetric Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/symmetric-tree.cc)
+
+[102 - Binary Tree Level Order Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/binary-tree-level-order-traversal.cc)
+
+[103 - Binary Tree Zigzag Level Order Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/binary-tree-zigzag-level-order-traversal.cc)
+
 [104 - Maximum Depth of Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/maximum-depth-of-binary-tree.cc)
 
 [110 - Balanced Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/balanced-binary-tree.cc)
