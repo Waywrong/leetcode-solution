@@ -57,9 +57,13 @@
 
 [57 - Insert Interval](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/insert-interval.cc)
 
+[58 - Length of Last Word](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/length-of-last-word.cc)
+
 [59 - Spiral Matrix II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/spiral-matrix-ii.cc)
 
 [60 - Permutation Sequence](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/permutation-sequence.cc)
+
+[66 - Plus One](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/plus-one.cc)
 
 [67 - Add Binary](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/add-binary.cc)
 
@@ -112,5 +116,7 @@
 [160 - Intersection of Two Linked Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/intersection-of-two-linked-lists.cc)
 
 [190 - Reverse Bits](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/reverse-bits.cc)
+
+[193 - Valid Phone Number](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/valid-phone-number.cc)
 
 [200 - Number of Islands](https://github.com/jiangxq18/leetcode/blob/master/Leetcode200/number-of-islands.cc)
