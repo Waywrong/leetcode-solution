@@ -125,6 +125,8 @@
 
 [136 - Single Number](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/single-number.cc)
 
+[137 - Single Number II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/single-number-ii.cc)
+
 [144 - Binary Tree Preorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/binary-tree-preorder-traversal.cc)
 
 [145 - Binary Tree Postorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/binary-tree-postorder-traversal.cc)
