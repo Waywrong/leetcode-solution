@@ -45,6 +45,8 @@
 
 [47 - Permutations II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/permutations-ii.cc)
 
+[50 - Pow(x,n)](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/powx-n.cc)
+
 [51 - N-Queens](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/n-queens.cc)
 
 [52 - N-Queens II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/n-queens-ii.cc)
@@ -100,6 +102,8 @@
 [118 - Pascal's Triangle](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/pascals-triangle.cc)
 
 [119 - Pascal's Triangle II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/pascals-triangle-ii.cc)
+
+[120 - Triangle](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/triangle.cc)
 
 [121 - Best Time to Buy and Sell Stock](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/best-time-to-buy-and-sell-stock.cc)
 
