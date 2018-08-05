@@ -5,8 +5,6 @@
 
 [3 - Longest Substring Without Repeating Characters](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/longest-substring-without-repeating-characters.cc)
 
-[4 - Median of Two Sorted Arrays](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/median-of-two-sorted-arrays.cc)
-
 [6 - ZigZag Conversion](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/zigzag-conversion.cc)
 
 [7 - Reverse Integer](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/reverse-integer.cc)
