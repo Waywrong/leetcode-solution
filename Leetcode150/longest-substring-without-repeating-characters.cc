@@ -3,20 +3,15 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        if (!s.size()) return 0;
-        vector<int> seenMap(128, 0);
-        int maxLen = 0;
-        int start = 0;
-        int end = 0;
-        while (start < s.size() && end < s.size()) {
-            if (!seenMap[s[end]]) {
-                // Move end and add to map
-                seenMap[s[end++]] = 1;
-                maxLen = max(maxLen, end - start);
-            } else {
-                seenMap[s[start++]] = 0;
-            }
+        if (s.empty())  return 0;
+        string store = "";
+        int max_len = 0;
+        for (int i=0; i < s.size(); i ++) {
+            int pos = store.find(s[i]);
+            if (pos != -1)  store = store.substr(pos + 1);
+            store += s[i];
+            max_len = max(max_len, (int)store.size());
         }
-        return maxLen;
+        return max_len;
     }
 };
