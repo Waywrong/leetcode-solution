@@ -35,6 +35,8 @@
 
 [31 - Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/next-permutation.cc)
 
+[35 - Search Insert Position](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-insert-position.cc)
+
 [39 - Combination Sum](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/combination-sum.cc)
 
 [40 - Combination Sum II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/combination-sum-ii.cc)
@@ -118,6 +120,8 @@
 [123 - Best Time to Buy and Sell Stock III](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/best-time-to-buy-and-sell-stock-iii.cc)
 
 [125 - Valid Palindrome](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/valid-palindrome.cc)
+
+[136 - Single Number](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/single-number.cc)
 
 [144 - Binary Tree Preorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/binary-tree-preorder-traversal.cc)
 
