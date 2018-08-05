@@ -15,6 +15,6 @@ public:
             res = t * t * x;
         else
             res = t * t;
-        return isinf(res) ? 0 : res;
+        return !isinf(res) ? res : 0;
     }
 };
