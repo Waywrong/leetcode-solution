@@ -9,7 +9,6 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
-
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
