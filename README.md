@@ -45,6 +45,8 @@
 
 [31 - Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/next-permutation.cc)
 
+[33 - Search in Rotated Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-in-rotated-sorted-array.cc)
+
 [35 - Search Insert Position](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-insert-position.cc)
 
 [39 - Combination Sum](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/combination-sum.cc)
@@ -94,6 +96,8 @@
 [78 - Subsets](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/subsets.cc)
 
 [80 - Remove Duplicates from Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/remove-duplicates-from-sorted-array.cc)
+
+[81 - Search in Rotated Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-in-rotated-sorted-array-ii.cc)
 
 [88 - Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/merge-sorted-array.cc)
 
