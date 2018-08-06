@@ -33,6 +33,8 @@
 
 [23 - Merge k Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/merge-k-sorted-lists.cc)
 
+[24 - Swap Nodes in Pairs](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/swap-nodes-in-pairs.cc)
+
 [26 - Remove Duplicates from Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/remove-duplicates-from-sorted-array.cc)
 
 [27 - Remove Element](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/remove-element.cc)
