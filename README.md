@@ -127,6 +127,10 @@
 
 [137 - Single Number II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/single-number-ii.cc)
 
+[141 - Linked List Cycle](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/linked-list-cycle.cc)
+
+[142 - Linked List Cycle II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/linked-list-cycle-ii.cc)
+
 [144 - Binary Tree Preorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/binary-tree-preorder-traversal.cc)
 
 [145 - Binary Tree Postorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/binary-tree-postorder-traversal.cc)
