@@ -15,6 +15,8 @@
 
 [9 - Palindrome Number](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/palindrome-number.cc)
 
+[14 - Longest Common Prefix](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/longest-common-prefix.cc)
+
 [15 - 3Sum](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/3sum.cc)
 
 [16 - 3Sum Closest](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/3sum-closest.cc)
@@ -28,6 +30,8 @@
 [20 - Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/valid-parentheses.cc)
 
 [21 - Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/merge-two-sorted-lists.cc)
+
+[23 - Merge k Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/merge-k-sorted-lists.cc)
 
 [26 - Remove Duplicates from Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/remove-duplicates-from-sorted-array.cc)
 
