@@ -121,6 +121,10 @@
 
 [104 - Maximum Depth of Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/maximum-depth-of-binary-tree.cc)
 
+[105 - Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/construct-binary-tree-from-preorder-and-inorder-traversal.cc)
+
+[106 - Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/construct-binary-tree-from-inorder-and-postorder-traversal.cc)
+
 [107 - Binary Tree Level Order Traversal II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/binary-tree-level-order-traversal-ii.cc)
 
 [110 - Balanced Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/balanced-binary-tree.cc)
