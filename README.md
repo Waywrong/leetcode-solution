@@ -7,6 +7,8 @@
 
 [4 - Median of Two Sorted Arrays](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/median-of-two-sorted-arrays.cc)
 
+[5 - Longest Palindromic Substring](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/longest-palindromic-substring.cc)
+
 [6 - ZigZag Conversion](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/zigzag-conversion.cc)
 
 [7 - Reverse Integer](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/reverse-integer.cc)
