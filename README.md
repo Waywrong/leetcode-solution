@@ -153,6 +153,8 @@
 
 [137 - Single Number II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/single-number-ii.cc)
 
+[138 - Copy List with Random Pointer](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/copy-list-with-random-pointer.cc)
+
 [141 - Linked List Cycle](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/linked-list-cycle.cc)
 
 [142 - Linked List Cycle II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/linked-list-cycle-ii.cc)
