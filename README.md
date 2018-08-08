@@ -17,6 +17,8 @@
 
 [9 - Palindrome Number](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/palindrome-number.cc)
 
+[10 - Regular Expression Matching](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/regular-expression-matching.cc)
+
 [14 - Longest Common Prefix](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/longest-common-prefix.cc)
 
 [15 - 3Sum](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/3sum.cc)
