@@ -133,6 +133,8 @@
 
 [110 - Balanced Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/balanced-binary-tree.cc)
 
+[111 - Minimum Depth of Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/minimum-depth-of-binary-tree.cc)
+
 [118 - Pascal's Triangle](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/pascals-triangle.cc)
 
 [119 - Pascal's Triangle II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/pascals-triangle-ii.cc)
