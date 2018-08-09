@@ -137,6 +137,10 @@
 
 [111 - Minimum Depth of Binary Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/minimum-depth-of-binary-tree.cc)
 
+[116 - Populating Next Right Pointers in Each Node](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/populating-next-right-pointers-in-each-node.cc)
+
+[117 - Populating Next Right Pointers in Each Node II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/populating-next-right-pointers-in-each-node-ii.cc)
+
 [118 - Pascal's Triangle](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/pascals-triangle.cc)
 
 [119 - Pascal's Triangle II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/pascals-triangle-ii.cc)
