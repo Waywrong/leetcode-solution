@@ -9,5 +9,5 @@
 * [Logger Rate Limiter](https://github.com/jiangxq18/leetcode/blob/master/Design/logger-rate-limiter.cc)
 * [Design Compressed String Iterator](https://github.com/jiangxq18/leetcode/blob/master/Design/design-compressed-string-iterator.cc)
 * [Design HashSet](https://github.com/jiangxq18/leetcode/blob/master/Design/design-hashset.cc)
-* [Design HashMap](https://gtihub.com/jiangxq18/leetcode/blob/master/Design/design-hashmap.cc)
+* [Design HashMap](https://github.com/jiangxq18/leetcode/blob/master/Design/design-hashmap.cc)
 * [Design Linked List](https://github.com/jiangxq18/leetcode/blob/master/Design/design-linked-list.cc)
