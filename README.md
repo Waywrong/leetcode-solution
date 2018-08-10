@@ -37,6 +37,8 @@
 
 [21 - Merge Two Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/merge-two-sorted-lists.cc)
 
+[22 - Generate Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/generate-parentheses.cc)
+
 [23 - Merge k Sorted Lists](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/merge-k-sorted-lists.cc)
 
 [24 - Swap Nodes in Pairs](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/swap-nodes-in-pairs.cc)
