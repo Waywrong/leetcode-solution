@@ -115,6 +115,8 @@
 
 [78 - Subsets](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/subsets.cc)
 
+[79 - Word Search](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/word-search.cc)
+
 [80 - Remove Duplicates from Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/remove-duplicates-from-sorted-array.cc)
 
 [81 - Search in Rotated Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-in-rotated-sorted-array-ii.cc)
