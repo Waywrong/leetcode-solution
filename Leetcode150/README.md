@@ -93,6 +93,8 @@
 
 [63 - Unique Paths II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/unique-paths-ii.cc)
 
+[Minimum Path Sum](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/minimum-path-sum.cc)
+
 [66 - Plus One](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/plus-one.cc)
 
 [67 - Add Binary](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/add-binary.cc)
