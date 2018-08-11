@@ -55,6 +55,8 @@
 
 [33 - Search in Rotated Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-in-rotated-sorted-array.cc)
 
+[34 - Find First and Last Position of Element in Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/find-first-and-last-position-of-element-in-sorted-array)
+
 [35 - Search Insert Position](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-insert-position.cc)
 
 [39 - Combination Sum](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/combination-sum.cc)
