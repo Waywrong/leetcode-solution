@@ -123,6 +123,8 @@
 
 [81 - Search in Rotated Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-in-rotated-sorted-array-ii.cc)
 
+[86 - Partition List](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/partition-list.cc)
+
 [88 - Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/merge-sorted-array.cc)
 
 [90 - Subsets II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/subsets-ii.cc)
