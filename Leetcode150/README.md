@@ -53,6 +53,8 @@
 
 [31 - Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/next-permutation.cc)
 
+[32 - Longest Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/longest-valid-parentheses.cc)
+
 [33 - Search in Rotated Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-in-rotated-sorted-array.cc)
 
 [34 - Find First and Last Position of Element in Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/find-first-and-last-position-of-element-in-sorted-array.cc)
