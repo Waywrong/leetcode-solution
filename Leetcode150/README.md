@@ -67,6 +67,8 @@
 
 [40 - Combination Sum II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/combination-sum-ii.cc)
 
+[41 - First Missing Positive](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/first-missing-positive.cc)
+
 [46 - Permutations](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/permutations.cc)
 
 [47 - Permutations II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/permutations-ii.cc)
