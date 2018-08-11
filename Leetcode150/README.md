@@ -85,9 +85,9 @@
 
 [60 - Permutation Sequence](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/permutation-sequence.cc)
 
-[62 - Unique Path](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/unique-path.cc)
+[62 - Unique Paths](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/unique-paths.cc)
 
-[63 - Unique Path II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/unique-path-ii.cc)
+[63 - Unique Paths II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/unique-paths-ii.cc)
 
 [66 - Plus One](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/plus-one.cc)
 
