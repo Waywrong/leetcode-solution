@@ -211,6 +211,8 @@
 
 [145 - Binary Tree Postorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/binary-tree-postorder-traversal.cc)
 
+[146 - LRU Cache](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/lru-cache.cc)
+
 [148 - Sort List](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/sort-list.cc)
 
 [150 - Evaluate Reverse Polish Notation](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/evaluate-reverse-polish-notation.cc)
