@@ -189,6 +189,8 @@
 
 [125 - Valid Palindrome](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/valid-palindrome.cc)
 
+[129 - Sum Root to Leaf Numbers](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/sum-root-to-leaf-numbers.cc)
+
 [136 - Single Number](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/single-number.cc)
 
 [137 - Single Number II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/single-number-ii.cc)
