@@ -71,6 +71,8 @@
 
 [41 - First Missing Positive](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/first-missing-positive.cc)
 
+[43 - Multiply Strings](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/multiply-strings.cc)
+
 [46 - Permutations](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/permutations.cc)
 
 [47 - Permutations II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/permutations-ii.cc)
