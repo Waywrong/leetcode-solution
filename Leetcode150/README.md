@@ -123,6 +123,8 @@
 
 [71 - Simplify Path](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/simplify-path.cc)
 
+[73 - Set Matrix Zeroes](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/set-matrix-zeroes.cc)
+
 [74 - Search a 2D Matirx](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-a-2d-matrix.cc)
 
 [75 - Sort Colors](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/sort-colors.cc)
