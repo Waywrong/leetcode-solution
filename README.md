@@ -75,6 +75,8 @@
 
 [41 - First Missing Positive](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/first-missing-positive.cc)
 
+[42 - Trapping Rain Water](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/trapping-rain-water.cc)
+
 [43 - Multiply Strings](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/multiply-strings.cc)
 
 [45 - Jump Game II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/jump-game-ii.cc)
