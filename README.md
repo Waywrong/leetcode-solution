@@ -145,6 +145,10 @@
 
 [81 - Search in Rotated Sorted Array II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-in-rotated-sorted-array-ii.cc)
 
+[82 - Remove Duplicates from Sorted List II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/remove-duplicates-from-sorted-list-ii.cc)
+
+[83 - Remove Duplicates from Sorted List](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/remove-duplicates-from-sorted-list.cc)
+
 [86 - Partition List](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/partition-list.cc)
 
 [88 - Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/merge-sorted-array.cc)
