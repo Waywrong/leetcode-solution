@@ -57,6 +57,8 @@
 
 [29 - Divide Two Integers](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/divide-two-integers.cc)
 
+[30 - Substring with Concatenation of All Words](https://github.com/jiangxq18/leetcode/blob/master/
+
 [31 - Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/next-permutation.cc)
 
 [32 - Longest Valid Parentheses](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/longest-valid-parentheses.cc)
