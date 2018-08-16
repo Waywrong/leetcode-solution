@@ -57,7 +57,7 @@
 
 [29 - Divide Two Integers](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/divide-two-integers.cc)
 
-[30 - Substring with Concatenation of All Words](https://github.com/jiangxq18/leetcode/blob/master/
+[30 - Substring with Concatenation of All Words](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/substring-with-concatenation-of-all-words.cc)
 
 [31 - Next Permutation](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/next-permutation.cc)
 
