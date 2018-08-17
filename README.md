@@ -227,6 +227,8 @@
 
 [123 - Best Time to Buy and Sell Stock III](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/best-time-to-buy-and-sell-stock-iii.cc)
 
+[124 - Binary Tree Maximum Path Sum](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/binary-tree-maximum-path-sum.cc)
+
 [125 - Valid Palindrome](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/valid-palindrome.cc)
 
 [128 - Longest Consecutive Sequence](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/longest-consecutive-sequence.cc)
