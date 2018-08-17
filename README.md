@@ -169,6 +169,8 @@
 
 [98 - Valid Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/valid-binary-search-tree.cc)
 
+[99 - Recover Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/recover-binary-search-tree.cc)
+
 [100 - Same Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/same-tree.cc)
 
 [101 - Symmetric Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/symmetric-tree.cc)
