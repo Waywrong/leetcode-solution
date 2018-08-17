@@ -133,6 +133,8 @@
 
 [68 - Text Justification](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/text-justification.cc)
 
+[69 - Sqrt(x)](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/sqrt-x.cc)
+
 [70 - Climb Stairs](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/climb-stairs.cc)
 
 [71 - Simplify Path](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/simplify-path.cc)
