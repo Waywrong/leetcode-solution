@@ -161,6 +161,8 @@
 
 [83 - Remove Duplicates from Sorted List](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/remove-duplicates-from-sorted-list.cc)
 
+[85 - Maximal Rectangle](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/maximal-rectangle.cc)
+
 [86 - Partition List](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/partition-list.cc)
 
 [88 - Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/merge-sorted-array.cc)
