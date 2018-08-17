@@ -69,6 +69,8 @@
 
 [35 - Search Insert Position](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-insert-position.cc)
 
+[36 - Valid Sudoku](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/valid-sudoku.cc)
+
 [37 - Sudoku Solver](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/sudoku-solver.cc)
 
 [38 - Count and Say](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/count-and-say.cc)
