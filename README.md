@@ -167,6 +167,8 @@
 
 [94 - Binary Tree Inorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/binary-tree-inorder-traversal.cc)
 
+[95 - Unique Binary Search Tree II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/unique-binary-search-tree-ii.cc)
+
 [96 - Unique Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/unique-binary-search-tree.cc)
 
 [98 - Valid Binary Search Tree](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/valid-binary-search-tree.cc)
