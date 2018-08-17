@@ -167,6 +167,8 @@
 
 [90 - Subsets II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/subsets-ii.cc)
 
+[92 - Reverse Linked List II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/reverse-linked-list-ii.cc)
+
 [93 - Restore IP Adresses](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/restore-ip-addresses.cc)
 
 [94 - Binary Tree Inorder Traversal](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/binary-tree-inorder-traversal.cc)
