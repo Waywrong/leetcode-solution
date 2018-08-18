@@ -141,6 +141,8 @@
 
 [71 - Simplify Path](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/simplify-path.cc)
 
+[72 - Edit Distance](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/edit-distance.cc)
+
 [73 - Set Matrix Zeroes](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/set-matrix-zeroes.cc)
 
 [74 - Search a 2D Matirx](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/search-a-2d-matrix.cc)
