@@ -169,6 +169,8 @@
 
 [86 - Partition List](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/partition-list.cc)
 
+[87 - Scramble String](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/scramble-string.cc)
+
 [88 - Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/merge-sorted-array.cc)
 
 [90 - Subsets II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/subsets-ii.cc)
