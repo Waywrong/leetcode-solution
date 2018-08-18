@@ -227,6 +227,8 @@
 
 [114 - Flatten Binary Tree to Linked List](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/flatten-binary-tree-to-linked-list.cc)
 
+[115 - Distince Subsequences](https://github.com/jiangxq18/leetcode/blob/master/distinct-subsequences.cc)
+
 [116 - Populating Next Right Pointers in Each Node](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/populating-next-right-pointers-in-each-node.cc)
 
 [117 - Populating Next Right Pointers in Each Node II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/populating-next-right-pointers-in-each-node-ii.cc)
