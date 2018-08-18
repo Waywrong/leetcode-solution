@@ -173,6 +173,8 @@
 
 [88 - Merge Sorted Array](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/merge-sorted-array.cc)
 
+[89 - Gray Code](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/gray-code.cc)
+
 [90 - Subsets II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/subsets-ii.cc)
 
 [91 - Decode Ways](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/decode-ways.cc)
