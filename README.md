@@ -249,6 +249,10 @@
 
 [125 - Valid Palindrome](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/valid-palindrome.cc)
 
+[126 - Word Ladder II](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/word-ladder-ii.cc)
+
+[127 - Word Ladder](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/word-ladder.cc)
+
 [128 - Longest Consecutive Sequence](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/longest-consecutive-sequence.cc)
 
 [129 - Sum Root to Leaf Numbers](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/sum-root-to-leaf-numbers.cc)
