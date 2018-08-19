@@ -295,4 +295,6 @@
 
 [148 - Sort List](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/sort-list.cc)
 
+[149 - Max Points on a Line](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/max-points-on-a-line.cc)
+
 [150 - Evaluate Reverse Polish Notation](https://github.com/jiangxq18/leetcode/blob/master/Leetcode150/evaluate-reverse-polish-notation.cc)
