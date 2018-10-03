@@ -97,6 +97,34 @@ void quick_sort_iter(vector<double> &nums, int low, int high)
     }
 }
 
+/* Random Quick Sort */
+
+void shuffle(vector<double> &nums, int low, int high)
+{
+    int p = (int)((double)rand() / RAND_MAX * (high - low) + low);
+    if (p != low)   swap(nums[low], nums[p]);
+}
+
+void random_quick_sort(vector<double> &nums, int low, int high)
+{
+    while (low < high)
+    {
+        shuffle(nums, low, high);
+        int p = partition1(nums, low, high);
+        int mid = low + (high - low) / 2;
+        if (p < mid)
+        {
+            random_quick_sort(nums, low, p-1);
+            low = p + 1;
+        }
+        else
+        {
+            random_quick_sort(nums, p+1, high);
+            high = p - 1;
+        }
+    }
+}
+
 int main(int argc, char **argv)
 {
     int N;
@@ -106,7 +134,8 @@ int main(int argc, char **argv)
         x = (double)rand() / RAND_MAX * 2000 - 1000;
     //quick_sort_1(nums, 0, nums.size()-1);
     //quick_sort_2(nums, 0, nums.size()-1);
-    quick_sort_iter(nums, 0, nums.size()-1);
+    //quick_sort_iter(nums, 0, nums.size()-1);
+    random_quick_sort(nums, 0, nums.size()-1);
     for (auto &x : nums)    cout << x << "\t";
     cout << endl;
     return 0;
