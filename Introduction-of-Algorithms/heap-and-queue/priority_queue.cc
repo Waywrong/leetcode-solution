@@ -117,8 +117,10 @@ void priority_queue<Task, Priority>::delete_task(Task &t)
     {
         int idx = task_index[t];
         task_heap.erase(task_heap.begin() + idx);
+        for (int i = 0; i < task_heap.size(); ++ i)
+            task_index[task_heap[i]] = i;
         for (int i = (task_heap.size()-2)/2; i >= 0; -- i)
-            decrease_task_priority(t, task_info[t]);
+            decrease_task_priority(task_heap[i], task_info[task_heap[i]]);
     }
     else
         cout << "No task found..." << endl;
@@ -161,24 +163,17 @@ int main(int argc, char **argv)
     priority_queue<string, int> q;
     string t;
     int p;
-    /*
-    for (int i = 0; i < 6; ++ i)
+    
+    for (int i = 0; i < 6; ++i)
     {
         cin >> t >> p;
         q.insert_task(t, p);
+        q.print_queue();
     }
-    q.print_queue();
-    while (cin >> t >> p)
+    while (cin >> t)
     {
-        q.insert_task(t, p);
+        q.delete_task(t);
         q.print_queue();
-    }*/
-    while (cin >> t >> p)
-    {
-        q.insert_task(t, p);
-        q.print_queue();
-        //q.print_index();
-        //q.print_info();
     }
     return 0;
 }
