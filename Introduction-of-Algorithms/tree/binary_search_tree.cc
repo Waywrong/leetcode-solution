@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <vector>
+#include <stack>
 using namespace std;
 
 template<typename T>
@@ -77,7 +78,48 @@ void BinSearchTree<T>::insert(T &x)
 template<typename T>
 void BinSearchTree<T>::remove(T &x)
 {
-    
+    node<T> *parent = 0, *child = root;
+    while (child != 0)
+    {
+        if (x == child->data)   break;
+        parent = child;
+        if (x < child->data)    child = child->left;
+        else    child = child->right;
+    }    
+    if (child->left==0 && child->right==0)
+    {
+        if (parent != 0)
+        {
+            if (child == parent->left)  parent->left = 0;
+            else    parent->right = 0;
+        }
+        delete child;
+    }
+    else if (child->left==0 || child->right==0)
+    {
+        if (parent != 0)
+        {
+            if (child == parent->left)
+                parent->left = child->left ? child->left : child->right;
+            else
+                parent->right = child->left ? child->left : child->right;
+        }
+        else    root = child->left ? child->left : child->right;
+        delete child;
+    }
+    else
+    {
+        node<T> *pre = child, *cur = child->right;
+        while (child->left != 0)
+        {
+            pre = cur;
+            cur = cur->left;
+        }
+        T tmp = cur->data; cur->data = child->data; child->data = tmp;
+        if (cur == child->right)    pre->right = cur->right;
+        else    pre->left = cur->right;
+        delete cur;
+    }
 }
 
 template<typename T>
@@ -126,6 +168,37 @@ void BinSearchTree<T>::inorder_traversal() const
         }
         cout << p->data << "\t";
         p = p->right;
+    }
+}
+
+template<typename T>
+void BinSearchTree<T>::postorder_traversal() const
+{
+    stack<node<T> *> s;
+    node<T> *p = root, *last = 0;
+    while (p != 0)
+    {
+        s.push(p);
+        p = p->left;
+    }
+    while (!s.empty())
+    {
+        p = s.top();
+        if (p->right==0 || p->right==last)
+        {
+            s.pop();
+            cout << p->data << "\t";
+            last = p;
+        }
+        else
+        {
+            p = p->right;
+            while (p != 0)
+            {
+                s.push(p);
+                p = p->left;
+            }
+        }
     }
 }
 
@@ -182,6 +255,14 @@ int main(int argc, char **argv)
     //cout << endl;
     bst.inorder_traversal();
     cout << endl;
-    cout << "MIN is " << bst.minimum() << ", MAX is " << bst.maximum() << endl;
+    while (cin >> x)
+    {
+        bst.remove(x);
+        bst.inorder_traversal();
+        cout << endl;
+    }
+    //cout << "MIN is " << bst.minimum() << ", MAX is " << bst.maximum() << endl;
+    //bst.postorder_traversal();
+    //cout << endl;
     return 0;
 }
