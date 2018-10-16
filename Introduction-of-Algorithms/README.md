@@ -6,3 +6,4 @@
 * [Heap and Queue](https://github.com/jiangxq18/algorithms/blob/master/Introduction-of-Algorithms/heap-and-queue/README.md)
 * [Hash](https://github.com/jiangxq18/algorithms/blob/master/Introduction-of-Algorithms/hash/README.md)
 * [Tree](https://github.com/jiangxq18/algorithms/blob/master/Introduction-of-Algorithms/tree/README.md)
+* [Graph](https://github.com/jiangxq18/algorithms/blob/master/Introduction-of-Algorithms/graph/README.md)
