@@ -300,3 +300,5 @@
 [150 - Evaluate Reverse Polish Notation](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/evaluate-reverse-polish-notation.cc)
 
 [151 - Reverse Words in a String](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/reverse-words-in-a-string.cc)
+
+[155 - Min Stack](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/min-stack.cc)
