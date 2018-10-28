@@ -304,3 +304,5 @@
 [155 - Min Stack](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/min-stack.cc)
 
 [167 - Two Sum II - Input array is sorted](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/two-sum-ii-input-array-is-sorted.cc)
+
+[189 - Rotate Array](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/rotate-array.cc)
