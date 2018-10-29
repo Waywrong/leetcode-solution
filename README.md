@@ -305,4 +305,6 @@
 
 [167 - Two Sum II - Input array is sorted](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/two-sum-ii-input-array-is-sorted.cc)
 
+[169 - Majority Element](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/majority-element.cc)
+
 [189 - Rotate Array](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/rotate-array.cc)
