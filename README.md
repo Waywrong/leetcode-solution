@@ -308,3 +308,5 @@
 [169 - Majority Element](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/majority-element.cc)
 
 [189 - Rotate Array](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/rotate-array.cc)
+
+[198 - House Robber](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/house-robber.cc)
