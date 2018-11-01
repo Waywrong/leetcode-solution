@@ -311,4 +311,6 @@
 
 [198 - House Robber](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/house-robber.cc)
 
+[202 - Happy Number](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/happy-number.cc)
+
 [206 - Reverse Linked List](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/reverse-linked-list.cc)
