@@ -322,3 +322,5 @@
 [206 - Reverse Linked List](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/reverse-linked-list.cc)
 
 [234 - Palindrome Linked List](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/palindrome-linked-list.cc)
+
+[617 - Merge Two Binary Trees](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/merge-two-binary-trees.cc)
