@@ -307,6 +307,8 @@
 
 [155 - Min Stack](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/min-stack.cc)
 
+[160 - Intersection-of-Two-Linked-Lists](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/intersection-of-two-linked-lists.cc)
+
 [167 - Two Sum II - Input array is sorted](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/two-sum-ii-input-array-is-sorted.cc)
 
 [169 - Majority Element](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/majority-element.cc)
