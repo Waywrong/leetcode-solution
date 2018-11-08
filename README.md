@@ -327,4 +327,6 @@
 
 [234 - Palindrome Linked List](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/palindrome-linked-list.cc)
 
+[257 - Binary Tree Paths](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/binary-tree-paths.cc)
+
 [617 - Merge Two Binary Trees](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/merge-two-binary-trees.cc)
