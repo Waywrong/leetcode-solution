@@ -329,4 +329,6 @@
 
 [257 - Binary Tree Paths](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/binary-tree-paths.cc)
 
+[543 - Diameter of Binary Tree](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/diameter-of-binary-tree.cc)
+
 [617 - Merge Two Binary Trees](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/merge-two-binary-trees.cc)
