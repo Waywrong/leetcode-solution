@@ -37,3 +37,39 @@ public:
 };
 
 //  Method 2, Quick Sort
+class Solution {
+public:
+    int findKthLargest(vector<int>& nums, int k) {
+        return findKthLargest(nums, 0, nums.size() - 1, k);
+    }
+    
+private:
+    int partition(vector<int> &nums, int low, int high) {
+        int t = nums[low];
+        int i = low, j = high;
+        while (i < j) {
+            while (i < j && nums[j] < t)
+                -- j;
+            if (i < j)
+                nums[i ++] = nums[j];
+            while (i < j && nums[i] > t) 
+                ++ i;
+            if (i < j)
+                nums[j --] = nums[i];
+        }
+        nums[i] = t;
+        return i;
+    }
+    
+    int findKthLargest(vector<int> &nums, int low, int high, int k) {
+        if (low == high)
+            return nums[low];
+        int pos = partition(nums, low, high);
+        if (pos == low + k - 1)
+            return nums[pos];
+        else if (pos > low + k - 1)
+            return findKthLargest(nums, low, pos - 1, k);
+        else
+            return findKthLargest(nums, pos + 1, high, k - pos + low - 1);
+    }
+};
