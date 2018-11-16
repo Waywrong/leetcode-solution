@@ -309,6 +309,8 @@
 
 [160 - Intersection-of-Two-Linked-Lists](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/intersection-of-two-linked-lists.cc)
 
+[162 - Find Peak Element](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/find-peak-element.cc)
+
 [167 - Two Sum II - Input array is sorted](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/two-sum-ii-input-array-is-sorted.cc)
 
 [169 - Majority Element](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/majority-element.cc)
