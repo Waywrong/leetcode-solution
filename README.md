@@ -301,8 +301,38 @@
 
 [151 - Reverse Words in a String](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/reverse-words-in-a-string.cc)
 
+[153 - Find Minimum in Rotated Sorted Array](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/find-minimum-in-rotated-sorted-array.cc)
+
+[154 - Find Minimum in Rotated Sorted Array II](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/find-minimum-in-rotated-sorted-array-ii.cc)
+
 [155 - Min Stack](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/min-stack.cc)
+
+[160 - Intersection-of-Two-Linked-Lists](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/intersection-of-two-linked-lists.cc)
+
+[162 - Find Peak Element](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/find-peak-element.cc)
 
 [167 - Two Sum II - Input array is sorted](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/two-sum-ii-input-array-is-sorted.cc)
 
+[169 - Majority Element](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/majority-element.cc)
+
 [189 - Rotate Array](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/rotate-array.cc)
+
+[198 - House Robber](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/house-robber.cc)
+
+[202 - Happy Number](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/happy-number.cc)
+
+[203 - Remove Linked List Elements](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/remove-linked-list-elements.cc)
+
+[206 - Reverse Linked List](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/reverse-linked-list.cc)
+
+[215 - Kth Largest Element in an Array](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/kth-largest-element-in-an-array.cc)
+
+[226 - Invert Binary Tree](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/invert-binary-tree.cc)
+
+[234 - Palindrome Linked List](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/palindrome-linked-list.cc)
+
+[257 - Binary Tree Paths](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/binary-tree-paths.cc)
+
+[543 - Diameter of Binary Tree](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/diameter-of-binary-tree.cc)
+
+[617 - Merge Two Binary Trees](https://github.com/jiangxq18/leetcode-solution/blob/master/leetcode/merge-two-binary-trees.cc)
